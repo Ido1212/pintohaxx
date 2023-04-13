@@ -1,0 +1,5 @@
+```lua
+loadfile("Configs/Default.lua")()
+loadfile("Globals/Functions.lua")()
+loadfile("Obfuscated.lua")()
+```
